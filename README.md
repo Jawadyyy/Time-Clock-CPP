@@ -26,14 +26,14 @@ This is a simple console-based timer application written in C++. The program tak
 
 4. **Timer Display**
 
-- The timer will display the time in the format `HH:MM:SS` and update every second.
-- The timer will reset to `00:00:00` after 23:59:59.
+   - The timer will display the time in the format `HH:MM:SS` and update every second.
+   - The timer will reset to `00:00:00` after 23:59:59.
 
 
 ## Notes
 
-- This program uses `system("cls")` to clear the console screen, which is specific to Windows. This will not work on other operating systems.
-- The `windows.h` header is included for the `Sleep` function, which is also specific to Windows.
+   - This program uses `system("cls")` to clear the console screen, which is specific to Windows. This will not work on other operating systems.
+   - The `windows.h` header is included for the `Sleep` function, which is also specific to Windows.
 
 ## License
 
