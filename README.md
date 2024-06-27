@@ -21,8 +21,8 @@ This is a simple console-based timer application written in C++. The program tak
 
 3. **Enter Time**
 
-- The program will prompt you to enter hours, minutes, and seconds.
-- If the entered time is invalid (hours >= 24, minutes >= 60, or seconds >= 60), you will be asked to enter the time again.
+   - The program will prompt you to enter hours, minutes, and seconds.
+   - If the entered time is invalid (hours >= 24, minutes >= 60, or seconds >= 60), you will be asked to enter the time again.
 
 4. **Timer Display**
 
